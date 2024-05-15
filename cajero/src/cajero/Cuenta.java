@@ -1,6 +1,6 @@
 package cajero;
 
-public class Cuenta {
+public class cuenta {
 
     private String ubicacion;
     private Double saldo;
